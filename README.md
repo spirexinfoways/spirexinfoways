@@ -1,49 +1,40 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== COSMIC HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Spirex%20Infoways&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,5,30" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=260&text=Spirex%20Infoways&fontSize=58&fontAlignY=45&color=gradient&customColorList=6,11,20,30,25" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&center=true&vCenter=true&width=750&lines=Modern+Digital+Solutions;Colorful+%7C+Animated+%7C+Premium+UI;Scalable+%26+Secure+Software;Clean+Code+%7C+Enterprise+Grade" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=600&color=7DF9FF&center=true&vCenter=true&width=900&lines=🌌+Cosmic+Digital+Experiences;✨+Animated+UI+That+Hypnotizes;🚀+Scalable+Systems+from+Another+Galaxy;💎+Clients+See+This+They+Remember+You" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Active-00E676?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI-Premium-7C4DFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Code-Production--Ready-00B0FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Security-High-FF9100?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COSMIC-UI-7C4DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ANIMATION-FULL--POWER-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CODE-ENTERPRISE--GRADE-00FF9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IMPACT-WOW%20LEVEL-FFEA00?style=for-the-badge"/>
 
 <br/><br/>
 
-🌐 <b>https://www.spirexinfoways.com</b> &nbsp;•&nbsp; 📧 <b>info@spirexinfoways.com</b>
+🌐 <b>https://www.spirexinfoways.com</b>  
+📧 <b>info@spirexinfoways.com</b>
 
 </div>
 
 ---
 
-<!-- ===================== OVERVIEW ===================== -->
-## 🚀 About Us
-Spirex Infoways is a technology-driven company building **high-performance, scalable, and secure** digital products.  
-We focus on **premium UI**, **clean architecture**, and **long-term stability**.
+<!-- ===================== COSMIC ABOUT ===================== -->
+## 🌌 WHO WE ARE
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=800&color=BB86FC&width=1000&lines=Spirex+Infoways+creates+digital+products+that+feel+alive.;We+blend+animation%2C+performance+and+scalability.;Not+just+software+—+an+experience." />
 
 ---
 
-<!-- ===================== SERVICES ===================== -->
-## 💼 Services
-<div align="center">
-
-🟣 Web Applications & Portals  
-🔵 Mobile Applications  
-🟢 Custom Software Solutions  
-🟡 UI / UX Design (Modern & Animated)  
-🟠 Cloud & DevOps  
-🔴 Maintenance & Support  
-
-</div>
+<!-- ===================== COSMIC SERVICES ===================== -->
+## 🚀 WHAT WE CREATE
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=17&pause=700&color=00E5FF&width=1000&lines=Web+Applications+with+Next-Level+UI;Mobile+Apps+with+Smooth+Motion;Custom+Enterprise+Software;Animated+UI+%7C+Micro-Interactions;Cloud+%26+DevOps+at+Scale" />
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ Technology Stack
+<!-- ===================== COSMIC TECH ===================== -->
+## 🧬 TECHNOLOGY UNIVERSE
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,laravel,mysql,mongodb,docker,aws,firebase,git,github&theme=dark" />
@@ -52,50 +43,34 @@ We focus on **premium UI**, **clean architecture**, and **long-term stability**.
 
 ---
 
-<!-- ===================== FEATURES ===================== -->
-## ✨ What Makes Us Different
-- 🎨 Colorful, modern & animated UI
-- ⚡ Performance-first development
-- 🔐 Enterprise-grade security
-- 🧩 Scalable & modular architecture
-- 📄 Clean documentation & standards
+<!-- ===================== COSMIC DIFFERENCE ===================== -->
+## ✨ WHY CLIENTS GO WOW
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=650&color=7DF9FF&width=1000&lines=Cosmic+Animated+UI;Insane+Performance;Enterprise+Security;Scalable+Architecture;Clean+Code+Standards;Long-Term+Support" />
 
 ---
 
-<!-- ===================== WORKFLOW ===================== -->
-## 🔄 Workflow
-```text
-Idea → Planning → Design → Development → Testing → Deployment → Support
-<!-- ===================== REPOS ===================== -->
-📂 Repository Types
+<!-- ===================== COSMIC FLOW ===================== -->
+## 🔮 WORKFLOW FROM THE FUTURE
 
-✅ Client Production Projects
-
-🧪 R&D / Experiments
-
-📦 Reusable Components
-
-📘 Documentation & Templates
-
-<!-- ===================== STATS ===================== -->
-📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spirexinfoways&show_icons=true&theme=radical&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=spirexinfoways&theme=radical" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=spirexinfoways&theme=react-dark" /> </div>
+🌠 Idea → 🧠 Strategy → 🎨 Cosmic Design → ⚙️ Development → ✨ Animation → 🚀 Launch → 📈 Scale
+<!-- ===================== COSMIC REPOS ===================== -->
+🪐 GITHUB GALAXY
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=750&color=BB86FC&width=1000&lines=Live+Client+Projects;High-Performance+Internal+Tools;Reusable+Animated+Components;Documentation+%26+Templates" />
+<!-- ===================== COSMIC STATS ===================== -->
+📊 COSMIC ACTIVITY
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spirexinfoways&show_icons=true&theme=radical&border_radius=20&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=spirexinfoways&theme=radical&border_radius=20" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=spirexinfoways&theme=react-dark" /> </div>
 
 ⚠️ spirexinfoways ko apne actual GitHub org username se replace kar dena.
 
-<!-- ===================== CONTACT ===================== -->
-📬 Contact
+<!-- ===================== COSMIC CTA ===================== -->
+🌠 READY TO BUILD SOMETHING UNREAL?
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=700&color=00FF9C&width=1000&lines=If+you+want+NORMAL+—+this+is+not+for+you.;If+you+want+EXTRAORDINARY+—+welcome+aboard." />
+<!-- ===================== COSMIC FOOTER ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient" />
 
-📧 info@spirexinfoways.com
+⭐ <b>STAR OUR REPOSITORIES — COSMIC QUALITY INSIDE</b>
 
-🌐 https://www.spirexinfoways.com
+<br/><br/>
 
-<!-- ===================== FOOTER ===================== --> <div align="center">
+© 2025 <b>Spirex Infoways</b> • Crafted in the Cosmos 🌌
 
-⭐ <b>Star our repositories to support premium-quality work</b>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
-
-© 2025 <b>Spirex Infoways</b> • All Rights Reserved
-
-</div> ```
+</div>
