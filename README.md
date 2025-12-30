@@ -1,60 +1,49 @@
+<!-- ===================== HERO ===================== -->
 <div align="center">
 
-<h1>Spirex Infoways</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Spirex%20Infoways&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,5,30" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Enterprise+Digital+Solutions;Clean+Architecture+%7C+Scalable+Systems;Trusted+Technology+Partner" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&center=true&vCenter=true&width=750&lines=Modern+Digital+Solutions;Colorful+%7C+Animated+%7C+Premium+UI;Scalable+%26+Secure+Software;Clean+Code+%7C+Enterprise+Grade" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Active-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Code-Enterprise--Grade-2962FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security-High-FF6D00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Support-Long--Term-9C27B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Active-00E676?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI-Premium-7C4DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Code-Production--Ready-00B0FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security-High-FF9100?style=for-the-badge"/>
 
 <br/><br/>
 
-🌐 https://www.spirexinfoways.com  
-📧 info@spirexinfoways.com  
+🌐 <b>https://www.spirexinfoways.com</b> &nbsp;•&nbsp; 📧 <b>info@spirexinfoways.com</b>
 
 </div>
 
 ---
 
-## 🏢 About Company
-
-**Spirex Infoways** is a professional software development company delivering  
-**secure, scalable, and high-performance digital solutions** for businesses.
-
-We focus on **long-term stability**, **clean code**, and **enterprise-grade architecture**.
+<!-- ===================== OVERVIEW ===================== -->
+## 🚀 About Us
+Spirex Infoways is a technology-driven company building **high-performance, scalable, and secure** digital products.  
+We focus on **premium UI**, **clean architecture**, and **long-term stability**.
 
 ---
 
-## 🎯 Mission | Vision | Values
-
-**Mission**  
-Build future-ready software solutions with uncompromised quality.
-
-**Vision**  
-Become a globally trusted technology partner.
-
-**Values**  
-Quality • Transparency • Security • Scalability
-
----
-
+<!-- ===================== SERVICES ===================== -->
 ## 💼 Services
+<div align="center">
 
-- Web Application Development  
-- Mobile Application Development  
-- Custom Software Development  
-- UI / UX Design  
-- Cloud & DevOps Solutions  
-- Ongoing Maintenance & Support  
+🟣 Web Applications & Portals  
+🔵 Mobile Applications  
+🟢 Custom Software Solutions  
+🟡 UI / UX Design (Modern & Animated)  
+🟠 Cloud & DevOps  
+🔴 Maintenance & Support  
+
+</div>
 
 ---
 
+<!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Technology Stack
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,laravel,mysql,mongodb,docker,aws,firebase,git,github&theme=dark" />
@@ -63,81 +52,50 @@ Quality • Transparency • Security • Scalability
 
 ---
 
-## 🧩 Architecture & Standards
-
-- Modular & scalable architecture  
-- Secure authentication & authorization  
-- API-first development  
-- Performance optimization  
-- Code review & documentation  
-
----
-
-## 📂 Repository Classification
-
-- Production Client Projects  
-- Internal Enterprise Tools  
-- Reusable Libraries & Components  
-- Documentation & Templates  
+<!-- ===================== FEATURES ===================== -->
+## ✨ What Makes Us Different
+- 🎨 Colorful, modern & animated UI
+- ⚡ Performance-first development
+- 🔐 Enterprise-grade security
+- 🧩 Scalable & modular architecture
+- 📄 Clean documentation & standards
 
 ---
 
-## 🔄 Development Lifecycle
+<!-- ===================== WORKFLOW ===================== -->
+## 🔄 Workflow
+```text
+Idea → Planning → Design → Development → Testing → Deployment → Support
+<!-- ===================== REPOS ===================== -->
+📂 Repository Types
 
-1. Requirement Analysis  
-2. System Design & Planning  
-3. Development  
-4. Quality Assurance  
-5. Deployment  
-6. Monitoring & Support  
+✅ Client Production Projects
 
----
+🧪 R&D / Experiments
 
-## 🔐 Security Practices
+📦 Reusable Components
 
-- Secure coding standards  
-- Regular dependency audits  
-- Role-based access control  
-- Data protection compliance  
+📘 Documentation & Templates
 
----
+<!-- ===================== STATS ===================== -->
+📊 GitHub Activity
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spirexinfoways&show_icons=true&theme=radical&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=spirexinfoways&theme=radical" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=spirexinfoways&theme=react-dark" /> </div>
 
-## 🤝 Contribution Process
+⚠️ spirexinfoways ko apne actual GitHub org username se replace kar dena.
 
-1. Fork repository  
-2. Create feature branch  
-3. Commit changes  
-4. Submit pull request  
+<!-- ===================== CONTACT ===================== -->
+📬 Contact
 
-Only **clean & documented code** is accepted.
+📧 info@spirexinfoways.com
 
----
+🌐 https://www.spirexinfoways.com
 
-## 📊 GitHub Analytics
+<!-- ===================== FOOTER ===================== --> <div align="center">
 
-<div align="center">
+⭐ <b>Star our repositories to support premium-quality work</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=spirexinfoways&show_icons=true&hide_title=true&theme=tokyonight&count_private=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=spirexinfoways&theme=tokyonight"/>
+© 2025 <b>Spirex Infoways</b> • All Rights Reserved
 
-</div>
-
-> ⚠️ Replace `spirexinfoways` with your actual GitHub org username if different.
-
----
-
-## 📬 Contact
-
-📧 info@spirexinfoways.com  
-🌐 https://www.spirexinfoways.com  
-
----
-
-<div align="center">
-
-⭐ Star our repositories to support enterprise-quality work  
-
-© 2025 **Spirex Infoways** • All Rights Reserved
-
-</div>
+</div> ```
